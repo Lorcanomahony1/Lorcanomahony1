@@ -1,0 +1,34 @@
+## Hi there 👋
+
+<!--
+I am a student at ATU studying software development
+
+I am proficient in the following skills
+* HTML
+* CSS
+* Javascript
+* Java
+* Python
+* Typescript
+* Ionic
+* Wordpress
+* Amazon web service
+* Cisco packet tracer
+* SQL
+* Junit
+
+
+I completed the following modules for my Higher diploma in software development at ATU
+
+WEB APPLICATION DEVELOPMENT	
+COMPUTATIONAL THINKING WITH ALGORITHMS	
+OBJECT ORIENTED SOFTWARE DEVELOPMENT	
+DATABASE DESIGN AND DEVELOPMENT
+COMPUTER ARCHITECTURE AND TECHNOLOGY CONVERGENCE
+WORK PLACEMENT/ INTERNSHIP
+NETWORK TECHNOLOGIES
+SOFTWARE DESIGN AND DATA STRUCTURES
+MOBILE APPLICATIONS DEVELOPMENT	
+AGILE SOFTWARE DEVELOPMENT
+OPERATING SYSTEMS AND CLOUD COMPUTING	
+-->
