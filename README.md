@@ -20,14 +20,16 @@ I am proficient in the following skills
 
 I completed the following modules for my Higher diploma in software development at ATU
 
-* WEB APPLICATION DEVELOPMENT	
-* COMPUTATIONAL THINKING WITH ALGORITHMS	
-* OBJECT ORIENTED SOFTWARE DEVELOPMENT	
-* DATABASE DESIGN AND DEVELOPMENT
-* COMPUTER ARCHITECTURE AND TECHNOLOGY CONVERGENCE
-* WORK PLACEMENT/ INTERNSHIP
-* NETWORK TECHNOLOGIES
-* SOFTWARE DESIGN AND DATA STRUCTURES
-* MOBILE APPLICATIONS DEVELOPMENT	
-* AGILE SOFTWARE DEVELOPMENT
-* OPERATING SYSTEMS AND CLOUD COMPUTING	
+
+* Web Application Development
+* Computational Thinking With Algorithms
+* Object Oriented Software Development
+* Database Design And Development
+* Computer Architecture And Technology Convergence
+* Work Placement/ Internship
+* Network Technologies
+* Software Design And Data Structures
+* Mobile Applications Development
+* Agile Software Development
+* Operating Systems And Cloud Computing
+
