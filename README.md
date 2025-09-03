@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 I am a student at ATU studying software development
 
 I am proficient in the following skills
@@ -31,4 +31,3 @@ SOFTWARE DESIGN AND DATA STRUCTURES
 MOBILE APPLICATIONS DEVELOPMENT	
 AGILE SOFTWARE DEVELOPMENT
 OPERATING SYSTEMS AND CLOUD COMPUTING	
--->
